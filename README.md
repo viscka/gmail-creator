@@ -1,4 +1,3 @@
-# gmail-creator
 # Gmail Account Creator
 
 This project is a tool for automating the creation of Gmail accounts.
@@ -12,5 +11,5 @@ This project is a tool for automating the creation of Gmail accounts.
 - Python 3.7 or higher
 - Requests library
 - BeautifulSoup (optional for scraping)
-##contact:
+## contact:
 https://t.me/Visckaaa
